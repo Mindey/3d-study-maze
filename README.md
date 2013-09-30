@@ -3,7 +3,7 @@
 
 "The software would allow teachers to design their labyrinth rooms, where each room's walls and doors would be easily editable, and the labyrinth files exportable/sharable, and interconnect into one large maze, with custom rewards in each following room."
 
-Reference: http://www.halfbakery.com/idea/3D_20Study_20Maze -- "Computer game for students: theory on the walls, problem solutions unlock the doors."
+Reference: http://www.halfbakery.com/idea/3D_20Study_20Maze 
 
 ******************************************************************************
 
