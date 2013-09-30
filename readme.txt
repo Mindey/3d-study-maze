@@ -1,11 +1,3 @@
-3d-study-maze
-=============
-
-Idea: http://www.halfbakery.com/idea/3D_20Study_20Maze
-Computer game for students: theory on the walls, problem solutions unlock the doors.
-
-"The software would allow teachers to design their labyrinth rooms, where each room's walls and doors would be easily editable, and the labyrinth files exportable/sharable, and interconnect into one large maze, with custom rewards in each following room."
-
 In order to run this program, install Panda3D SDK ( http://www.panda3d.org )
 It was developed and tested with Panda3D SDK version 1.8.0.
 
@@ -40,4 +32,3 @@ X[3] = MazeRoom(X[2])
 ******************************************************************************
 
 Try out a sample maze: http://mindey.com/3dmaze.zip
-
