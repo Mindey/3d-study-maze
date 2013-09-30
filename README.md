@@ -7,8 +7,7 @@ Reference: http://www.halfbakery.com/idea/3D_20Study_20Maze
 
 ******************************************************************************
 
-In order to run this program, install Panda3D SDK ( http://www.panda3d.org )
-It was developed and tested with Panda3D SDK version 1.8.0.
+In order to run this program, install Panda3D SDK ( http://www.panda3d.org ). It was developed and tested with Panda3D SDK version 1.8.0.
 
 If you are a Ubuntu 12.04 user, "you can well install Panda's official 11.10 (Oneiric) packages.
 All you need is two 11.10 packages -- libcv2.1 and libhighgui2.1, which you can remove once the official builds are up."
@@ -32,11 +31,13 @@ python main.py
 
 Hello world:
 
+```python
 # maze.py
 X = {}
 X[1] = MazeRoom(root)
 X[2] = X[1].front.hangTunnel()
 X[3] = MazeRoom(X[2]) 
+```
 
 ******************************************************************************
 
